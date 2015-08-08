@@ -1,0 +1,8 @@
+[package]
+name = "appdirs"
+version = "0.0.1"
+authors = ["Danyel Bayraktar <danyel@webhippie.de>"]
+
+license = "MIT"
+description = "Determine platform specific directories"
+repository = "https://github.com/muja/appdirs.rs"
